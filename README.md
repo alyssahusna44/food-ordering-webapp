@@ -79,4 +79,4 @@ PopMeals provides an **efficient online ordering system** for restaurants and ni
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is was part of academic coursework under subject ISB42403 WEB APPLICATION DEVELOPMENT in UniKL MIIT.
