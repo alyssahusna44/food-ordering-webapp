@@ -1,5 +1,4 @@
-# PopMeals Knockoff Web Application
-
+# Food Ordering Webapp
 ## Overview
 This project is an **ASP.NET-based online ordering system** for food and beverages. This project enables **customers** to browse menu items, place orders, and make payments, while **administrators** manage orders, sales, and transactions efficiently.
 
